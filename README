@@ -1,7 +1,8 @@
 # 🌐 Aditi Raj - Portfolio
 
-Welcome to my personal portfolio website!
-This website showcases my projects, skills, and experience in **Data Science, Machine Learning, and Web Development**.
+🚀 **Data Analyst | ML Engineer | UI/UX Designer**
+
+Welcome to my personal portfolio website showcasing my projects, skills, and experience in **Data Science, Machine Learning, and Web Development**.
 
 ---
 
@@ -11,20 +12,18 @@ This website showcases my projects, skills, and experience in **Data Science, Ma
 
 ---
 
-## 📌 About the Project
+## ✨ Highlights
 
-This portfolio is designed to represent my professional journey, technical expertise, and projects in an interactive and visually appealing way. It highlights my work in AI/ML, development, and design.
+* 💡 Showcases real-world AI/ML projects
+* 🎨 Clean and modern UI/UX design
+* ⚡ Fast and responsive performance
+* 📱 Mobile-friendly interface
 
 ---
 
-## ✨ Features
+## 📌 About the Project
 
-🧑‍💻 Personal introduction section
-💼 Projects showcase with details
-🛠️ Skills & technologies overview
-📄 Resume section
-📬 Contact section
-📱 Fully responsive design
+This portfolio represents my professional journey, technical expertise, and creative work. It is designed to provide a seamless experience while exploring my projects and skills.
 
 ---
 
@@ -33,36 +32,39 @@ This portfolio is designed to represent my professional journey, technical exper
 * HTML5
 * CSS3
 * JavaScript
-* (Add any framework if used: React / Tailwind / Bootstrap)
+* Responsive Design
 
 ---
-   
+
+## 📂 Project Structure
+
+```
+ADportfolio/
+│── index.html
+│── index.css
+│── script.js
+│── assets/
+```
+
+---
+
 ## 🌍 Deployment
 
-This portfolio is deployed using an AI-powered builder and hosting platform for fast and seamless deployment.
+This portfolio is designed and deployed using an AI-powered platform for seamless and fast hosting.
 
+---
 
-
-## 🤝 Contributing
-
-Suggestions and feedback are welcome!
 
 ---
 
 ## 📬 Contact
 
-* LinkedIn: https://linkedin.com/in/aditiraj-2903ar
-* Email: aditiraj2903@gmail.com
+* 🔗 LinkedIn: https://linkedin.com/in/aditiraj-2903ar?
+* 📧 Email: aditiraj2903@gmail.com
 
 ---
 
-## ⭐ Acknowledgements
-
-* Built using modern web design practices
-* Designed and deployed using AI tools
-
----
 
 ## 📝 License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License.
