@@ -9,3 +9,6 @@
     "node": ">=18"
   }
 }
+"scripts": {
+  "build": "echo Build complete"
+}
