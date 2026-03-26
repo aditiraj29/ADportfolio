@@ -16,3 +16,13 @@
     "sharp": "^0.34.4"
   }
 }
+{
+  "engines": {
+    "pnpm": ">=7",
+    "node": ">=18"
+  }
+}
+
+{
+  "packageManager": "pnpm@8.15.0"
+}
